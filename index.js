@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function add(x, y) {
   return x + y;
 }
@@ -39,3 +40,9 @@ function preserveDecimal(n) {
 }
 preserveDecimal('5.5');
 preserveDecimal('nada');
+=======
+1 + 81;
+60 - 40;
+2 * 3.4;
+5.0 / 2,5;
+>>>>>>> 6254a5d3d608eeb4c41efd1d468691e847547ae4
